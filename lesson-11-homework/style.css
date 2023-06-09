@@ -104,7 +104,6 @@ h3 {
 }
 
 
-
 h3 {
     font-style: normal;
     font-weight: 400;
@@ -157,7 +156,7 @@ h3 {
     gap: 30px;
     grid-template-columns: repeat(3, 360px);
     justify-content: center;
-
+    margin-bottom: 48px;
 
 }
 
@@ -195,4 +194,17 @@ h6 {
     line-height: 19px;
 
     color: #F16D7F;
+}
+
+button {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    border: 1px solid #FF6A6A;
+    color: #F26376;
+
+    background: #ffffff;
+    padding: 15px 39px 14px;
 }
